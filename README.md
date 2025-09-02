@@ -5,4 +5,4 @@ This project is a great way to dive into GUI programming with Python. It’s sim
 - Two game modes: "Player vs Player" & "Player vs Bot"
 - Responsive and intuitive UI
 - Neon-themed design for a modern look
-- ** Easy to run: **  no dependencies beyond Python’s standard library
+- **Easy to run:**  no dependencies beyond Python’s standard library
