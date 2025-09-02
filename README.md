@@ -8,4 +8,4 @@ This project is a great way to dive into GUI programming with Python. It’s sim
 - Responsive and intuitive UI
 - **Easy to run:**  no dependencies beyond Python’s standard library
 
-![Tci Tac Toe](https://github.com/CoderShayan/TicTacToe/blob/main/TicTacToe.pnghttps://github.com/CoderShayan/TicTacToe/blob/main/TicTacToe.png)
+![Tci Tac Toe](https://github.com/CoderShayan/TicTacToe/blob/main/TicTacToe.png)
